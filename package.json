@@ -1,0 +1,30 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesomeojumu/node.js.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "mySQL"
+  ],
+  "author": "A.O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awesomeojumu/node.js/issues"
+  },
+  "homepage": "https://github.com/awesomeojumu/node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
